@@ -1,0 +1,11 @@
+PAQUETE DE ICONOS CLÁSICOS DE BATMAN (TODOS LOS DISPOSITIVOS)
+======================================================================
+Este paquete contiene los iconos generados a partir del logo clásico de Batman, listos para aplicaciones móviles, web y escritorio:
+
+1. icono_maestro_1024x1024.png - Icono cuadrado de app en alta resolución (1024x1024 px).
+2. logo_original_transparente.png - El logotipo ovalado original con fondo transparente.
+3. iOS_AppStore/ - Todos los tamaños oficiales para iPhone, iPad y App Store Connect.
+4. Android/ - Carpetas mipmap (cuadrados y redondos) + icono de 512x512 para Google Play.
+5. Web_y_PWA/ - favicon.ico multiresolución y PNGs para web / PWA.
+6. Windows_Desktop/ - app_icon.ico y PNGs para Windows.
+7. macOS/ - Tamaños nativos de macOS (de 16x16 a 1024x1024 px).
